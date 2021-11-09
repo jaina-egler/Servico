@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.InstallLog
+   assemblypath = D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.exe
+Instalando o serviço MeuServico...
+Serviço MeuServico foi instalado com êxito.
+Criando a origem de EventLog MeuServico no log Application...
+Confirmando o assembly 'D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.InstallLog
+   assemblypath = D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.exe

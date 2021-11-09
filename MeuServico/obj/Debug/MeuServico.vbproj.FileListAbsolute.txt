@@ -1,0 +1,13 @@
+D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.exe.config
+D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.exe
+D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.pdb
+D:\Projetos\Servico\MeuServico\MeuServico\bin\Debug\MeuServico.xml
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.vbprojAssemblyReference.cache
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.Resources.resources
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.MeuServico.resources
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.ProjectInstaller.resources
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.vbproj.GenerateResource.cache
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.vbproj.CoreCompileInputs.cache
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.exe
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.xml
+D:\Projetos\Servico\MeuServico\MeuServico\obj\Debug\MeuServico.pdb
